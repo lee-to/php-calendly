@@ -1,0 +1,4 @@
+vendor/
+examples/
+composer.lock
+tests/CalendlyApiTestCredentials.php
